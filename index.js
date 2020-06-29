@@ -1,5 +1,5 @@
 // add solution here
 function theBeatlesPlay(music, instrument){
   var arr =[]
-  for( var i =0)
+  for( var i =0;i<music.length())
 }
