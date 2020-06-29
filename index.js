@@ -16,8 +16,10 @@ function johnLennonFacts(facts){
 }
 function iLoveTheBeatles(number){
   var arr=[]
+  var i=0
   do{
     var add = "I love the Beatles!"
-  }while(i)
+    i++
+  }while(i<15)
   
 }
