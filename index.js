@@ -1,5 +1,5 @@
 // add solution here
-Function theBeatlesPlay(music, instrument){
+function theBeatlesPlay(music, instrument){
   var arr =[]
   
 }
