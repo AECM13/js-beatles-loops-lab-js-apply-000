@@ -20,16 +20,9 @@ function iLoveTheBeatles(number){
   var add = "I love the Beatles!"
   if (number>=15){
     do{
+    i++
     
-    i++
-  }while(i<1)
-  }
-  else{
-    do{
-    i = number-1  
-    i++
   }while(i<15)
-    
   }
 
   return arr
