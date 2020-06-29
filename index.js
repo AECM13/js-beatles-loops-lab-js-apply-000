@@ -8,6 +8,9 @@ function theBeatlesPlay(music, instrument){
   }
   return arr
 }
-function theBeatlesPlay(music, instrument){
-  
+function johnLennonFacts(facts){
+  for(var i=0;facts.length;i++){
+    facts[i]+='!!!'
+  }
+  return facts
 }
