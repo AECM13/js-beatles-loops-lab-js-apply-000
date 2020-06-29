@@ -9,7 +9,7 @@ function theBeatlesPlay(music, instrument){
   return arr
 }
 function johnLennonFacts(facts){
-  for(var i=0;facts.length;i++){
+  for(var i=0;i<facts.length;i++){
     facts[i]+='!!!'
   }
   return facts
