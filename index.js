@@ -16,14 +16,13 @@ function johnLennonFacts(facts){
 }
 function iLoveTheBeatles(number){
   var arr=[]
-  var i=0
+  var i=number
   var add = "I love the Beatles!"
-  if (number>=15){
-    do{
+  
+  do{
     i++
     
   }while(i<15)
-  }
 
   return arr
 }
